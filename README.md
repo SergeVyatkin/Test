@@ -1,4 +1,4 @@
-# Test My first updte
+# Test My first update
 
 - My first test repo
 - My first test branch update 
